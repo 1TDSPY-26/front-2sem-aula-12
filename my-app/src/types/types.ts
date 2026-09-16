@@ -1,7 +1,7 @@
 export interface TipoProduto {
-    id: Number,
+    id: number,
     nome: string,
-    preco: Number,
+    preco: number,
     descricao: string,
     avatar: string,
 }
