@@ -21,7 +21,7 @@ export default function EditarProdutos() {
 
     estojo.lapis;
     estojo.caneta;
-    const {lapis, caneta} = estojo;
+    //onst {lapis, caneta} = estojo;
 
     const jogos = ["Sonic", "Mario" ,"Zelda"];
 
