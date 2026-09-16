@@ -1,3 +1,8 @@
-export default function Erro(){
-    return <h2>Erro 404 - Página Não Encontrada</h2>;
+export default function Error() {
+    return (
+        <main>
+            <h2>404</h2>
+            <p>A página que você tentou acessar não foi encontrada.</p>
+        </main>
+    );
 }
