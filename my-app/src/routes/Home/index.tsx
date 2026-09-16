@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 export default function Home() {
   return (
     <div>
@@ -5,3 +6,14 @@ export default function Home() {
     </div>
   );
 }
+=======
+
+export default function Home() {
+    return (
+        <main>
+            <h2>Home</h2>
+        </main>
+    );
+    
+}
+>>>>>>> origin/feature/exemplo-pf0670
